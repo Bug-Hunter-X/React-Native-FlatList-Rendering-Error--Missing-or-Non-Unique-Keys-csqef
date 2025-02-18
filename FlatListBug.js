@@ -1,0 +1,1 @@
+This error occurs when using the `FlatList` component in React Native and trying to render a large number of items.  The key is missing or not unique, causing React Native to throw an error.  The error message might not be very descriptive, often indicating a general rendering issue.
